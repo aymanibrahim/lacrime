@@ -1,7 +1,7 @@
 # Crime Data Cleaning, Analysis, and Classification
 
 ## Overview
-This dataset reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
+[This dataset](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data) reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
 
 This project analyzes crime data, identifies trends, and builds a classification model to predict serious and non-serious crime types based on location, time, and victim demographics.
 
