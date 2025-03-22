@@ -5,16 +5,16 @@
 
 This project analyzes crime data, identifies trends, and builds a classification model to predict serious and non-serious crime types based on location, time, and victim demographics.
 
-## Data Processing
+## [Data Processing](https://github.com/aymanibrahim/lacrime/blob/main/notebooks/clean_data.ipynb)
 - **Cleaning:** Handled missing values, corrected data types , and standardized categorical values.
 - **Feature Engineering:** Extracted time-based features (hour, day, month), encoded categorical variables, and removed irrelevant columns.
 - **Visualization:** Created bar charts, and trend lines for insights on crime distribution.
 
-## Exploratory Data Analysis (EDA)
+## [Exploratory Data Analysis (EDA)](https://github.com/aymanibrahim/lacrime/blob/main/notebooks/analyze_data.ipynb)
 - **Temporal Trends:** Smoothed crime trends over time and analyzed hourly crime distribution.
 - **Victim Demographics:** Studied crime patterns by age, gender, and descent.
 
-## Classification Model
+## [Classification Model](https://github.com/aymanibrahim/lacrime/blob/main/notebooks/build_model.ipynb)
 - **Objective:** Predict crime type (serious/non-serious)
 - **Features Used:** Location (lat/lon), time (hour, day), and victim demographics.
 - **Preprocessing:** Standardized numerical features and encoded categorical values.
