@@ -1,4 +1,5 @@
 # Crime Data Cleaning, Analysis, and Classification
+<img src="figs/project_figs.png">
 
 ## Overview
 [This dataset](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data) reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
